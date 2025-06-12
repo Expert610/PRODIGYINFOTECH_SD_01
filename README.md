@@ -42,7 +42,7 @@ This user-friendly application features a modern GUI powered by **ttkbootstrap**
 
 ---
 ### 🖼️ Screenshot:
-[![GUI Screenshot](task-01.png)](task-01.png)
+[![GUI Screenshot](task-01.PNG)](task-01.PNG)
 
 
 

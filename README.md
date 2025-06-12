@@ -42,23 +42,24 @@ This user-friendly application features a modern GUI powered by **ttkbootstrap**
 
 ---
 ### 🖼️ Screenshot:
-[![GUI Screenshot](screenshot.png)](screenshot.png)
+[![GUI Screenshot](task-01.png)](task-01.png)
 
-[![GUI Screenshot](screenshot.png)](screenshot.png)
+
 
 ### ▶️ How to Run:
 1. Make sure Python is installed (`>= 3.6`)
 2. Install ttkbootstrap:
-   ```bash
+   bash
    pip install ttkbootstrap
    python temperature_converter_gui.py
-📽️ Video Demo:
-Click here to watch the demo <!-- Replace # with actual video link (e.g., YouTube or Google Drive shared link) -->
+
 
 ✍️ Author:
 Name: Muhammad Yasir
-
+**📧 Email:** [yaisikhan111@gmail.com.com](mailto:yaisikhan111@gmail.com.com)
 Internship Program: Prodigy InfoTech – Python Programming-Software Development
+
+
 
 📌 Note:
 This project is created as part of the Prodigy InfoTech Virtual Internship Program, showcasing Python GUI development skills using modern UI libraries.
